@@ -1,0 +1,4 @@
+com\developerbiz\gateway\IRCHandler.class
+com\developerbiz\gateway\IRC.class
+com\developerbiz\gateway\ExternalGatewayComponent.class
+com\developerbiz\gateway\GatewayComponent.class
